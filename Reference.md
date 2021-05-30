@@ -2,7 +2,7 @@
 In object-oriented programming, a class is an extensible program-code-template for creating objects, providing initial values for state (member variables) and implementations of behavior (member functions or methods).
 
 ### Describe the pros and cons of using classes in JavaScript.
-Loremipsum Stu
+
 
 ### Briefly discuss how JavaScript’s object creation differs from a language like Java or Ruby.
 
